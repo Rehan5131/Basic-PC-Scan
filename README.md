@@ -11,7 +11,7 @@ This repository contains the results of a basic vulnerability scan performed on 
 ## Scan Target
 
 - **IP:** 127.0.0.1 (localhost)
-- **OS:** Windows 10 (assumed based on port behavior)
+- **OS:** Windows 10
 
 ## Deliverables
 
